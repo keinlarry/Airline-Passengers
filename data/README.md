@@ -11,7 +11,7 @@ Ce jeu de données contient des données temporelles liées au transport aérien
 
 * **Type de données :** Série temporelle (*Time series*)
 * **Portée :** Nombre mensuel de passagers aériens sur une période spécifique.
-* **Structure :** Série temporelle univariée avec une fréquence régulière et continue (mensuelle).
+* **Structure :** Série temporelle univariée avec une fréquence régulière et continue (mensuelle sur plusieurs années).
 
 ### Structure des colonnes
 
